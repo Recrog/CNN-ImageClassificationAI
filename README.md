@@ -148,7 +148,7 @@ Model performansını artırmak için:
 Daha fazla veri artırma tekniği deneyin.
 Model mimarisini özelleştirin (örneğin, ek katmanlar ekleyin).
 Hiperparametre optimizasyonu yapın (öğrenme oranı, batch boyutu vb.).
-
+Live Deployment : https://recrog-cnn-imageclassificationai-streamlit-app-tpqb3h.streamlit.app/
 
 
 
